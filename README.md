@@ -6,11 +6,11 @@
 
 Here are some ideas:
 
-🌱 I'm currently learning Python, Machine Learning, and Data Science.
-👨‍💻 I'm working on web development and AI projects.
-💬 Ask me about Python, HTML, CSS, and Java.
-📫 How to reach me: soham3798.beai25@chitkara.edu.in
-⚡ Fun fact: I enjoy solving coding problems and building projects.
+- 🌱 I'm currently learning Python, Machine Learning, and Data Science.
+- 👨‍💻 I'm currently working on Web Development and AI projects.
+- 💬 Ask me about Python, HTML, CSS, and Java.
+- 📫 How to reach me: soham3798.beai25@chitkara.edu.in
+- ⚡ Fun fact: I enjoy solving coding problems and building projects.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-setia-778098389) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SohamSetia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soham3798.beai25@chitkara.edu.in) 
 
